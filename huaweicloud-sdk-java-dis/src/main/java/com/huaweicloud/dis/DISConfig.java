@@ -82,8 +82,8 @@ public class DISConfig extends Properties implements ClientParams {
     public static final String PROPERTY_PROXY_DOMAIN = "PROXY_DOMAIN";
     public static final String PROPERTY_NON_PROXY_HOSTS = "NON_PROXY_HOSTS";
 
-    public static final String PROPERTY_AK = "ak";
-    public static final String PROPERTY_SK = "sk";
+    public static final String PROPERTY_AK = "9YM0VB93VY2YPAKJY2N8";
+    public static final String PROPERTY_SK = "KgWwTWEQDQEXYbh7HJ9h5MPMVjpBu7rbQGNCUbKr";
     public static final String PROPERTY_DATA_PASSWORD = "data.password";
     public static final String PROPERTY_IS_DEFAULT_TRUSTED_JKS_ENABLED = "IS_DEFAULT_TRUSTED_JKS_ENABLED";
 
